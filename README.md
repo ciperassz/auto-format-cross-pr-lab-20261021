@@ -1,2 +1,4 @@
-# auto-format-cross-pr-lab-20261021
-Harmless, owner-controlled GitHub Actions cross-PR formatter reproduction. Fake canary only.
+# Owner-controlled formatter lab
+
+Harmless reproduction of artifact-to-PR binding behavior.
+Only fake canary data is used. No Cloudflare accounts or deployments are involved.
